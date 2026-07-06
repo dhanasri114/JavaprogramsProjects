@@ -18,11 +18,12 @@ public class Addition
 	
 	int add()
 	{
-		return num1+num2;
+		return num1+num2
 	}
 	
     public static void main( String[] args )
     {
         Addition a=new Addition(20, 30);
+        a.add();
     }
 }
