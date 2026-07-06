@@ -22,6 +22,6 @@ public class Construct
 	
 	public static void main(String[] args) 
 	{
-		new Construct(1,"dhanu",22,"dhaniu@gmail.com").student();
+		new Construct(1,"dhanu",22,"dhanu@gmail.com").student();
 	}
 }
